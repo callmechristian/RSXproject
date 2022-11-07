@@ -1,0 +1,5 @@
+Date		Time		Temp	   Volt
+07/11/2022	10:04:06	|18,77°C | -0,14 V | 
+	Min	Max	Mean
+TEMPER	18,77	18,77	12,51
+VOLTAGE	-0,14	0,00	-0,09
