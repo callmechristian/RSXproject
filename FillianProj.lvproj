@@ -37,6 +37,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="FillianProj2.vi" Type="VI" URL="../FillianProj2.vi"/>
+		<Item Name="percentage.vi" Type="VI" URL="../percentage.vi"/>
+		<Item Name="voltagePrecentage.vi" Type="VI" URL="../voltagePrecentage.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
