@@ -1,0 +1,4 @@
+Date		Time		Temp	   Volt
+	Min	Max	Mean
+TEMPER	Inf	-Inf	NaN
+VOLTAGE	Inf	-Inf	NaN
